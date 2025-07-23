@@ -54,7 +54,7 @@ install.packages(c("terra", "leaflet", "sf", "htmlwidgets"))
 ## File Structure
 
 - `FlameSAFE_script.R` — The main R script performing data processing and map creation.  
-- `FlameSafe_map.html` — The resulting interactive web map saved as an HTML file.
+- `FlameSafe_map.html` — The resulting interactive web map is saved as an HTML file.
 
 ---
 
