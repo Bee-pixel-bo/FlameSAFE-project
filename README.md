@@ -3,7 +3,7 @@
 
 ## Overview
 
-FlameSAFE is an interactive wildfire risk mapping tool designed to identify and visualize critical infrastructure—such as schools and hospitals—that are vulnerable to wildfire threats in British Columbia. The tool highlights facilities located within a 5 km buffer zone around wildfire perimeters, providing valuable insights for decision-makers to support proactive planning, resource allocation, and emergency response.
+FlameSAFE is an interactive wildfire risk mapping tool designed to identify and visualize critical infrastructure such as schools and hospitals, that are vulnerable to wildfire threats in British Columbia. The tool highlights facilities located within a 5 km buffer zone around wildfire perimeters, providing valuable insights for decision-makers to support proactive planning, resource allocation, and emergency response.
 
 The project uses R programming and spatial analysis libraries to process geospatial data and create an interactive web map, which is saved as an HTML file for easy sharing and visualization.
 
